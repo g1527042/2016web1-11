@@ -1,5 +1,5 @@
 // 日時を表示
-document.getElementById('choice').textComent = new Data();
+document.getElementById('choice').textContent = new Data();
 /* ダイアログを表示 */
 window.alert('こんにちは世界！');
 // コンソールに表示
